@@ -1,2 +1,2 @@
 # cv_first_project
-My project in html.
+My first project in html.
